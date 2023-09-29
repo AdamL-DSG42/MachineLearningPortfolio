@@ -1,2 +1,2 @@
-# MachineLearningPortfolio
-A portfolio of machine learning projects that I have worked on
+# Adam Lambert's Machine Learning Portfolio
+
