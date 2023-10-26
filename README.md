@@ -5,9 +5,9 @@ This is a repository of projects that I have worked on or am currently working t
 
 ##Table of Contents
 
-##[Projects](#projects)
+## [Projects](#projects)
 ---
 ---
 
-##Projects
+## Projects
 ---
