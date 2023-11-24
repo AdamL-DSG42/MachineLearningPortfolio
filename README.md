@@ -10,7 +10,7 @@ This is a repository of projects that I have worked on or am currently working t
 ## Projects
 
 ### Crime Rates and their impact on property prices
-This project aims to assess whether there is an affect on property prices in areas of high crime in Ireland. It will initially provide a high level overview of the overall project goal, with later iteration providing more detailed information.
+This project aims to assess whether there is an affect on property prices in areas of high crime in Ireland. It will initially provide a high level overview of the overall project goal, with later iterations providing more detailed information.
 
 #### Datasets:
 As the datasets are too large to upload to GitHub, they can be found at these links
