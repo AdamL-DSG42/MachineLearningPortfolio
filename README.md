@@ -13,6 +13,7 @@ This is a repository of projects that I have worked on or am currently working t
 This project aims to assess whether there is an affect on property prices in areas of high crime in Ireland. It will initially provide a high level overview of the overall project goal, with later iteration providing more detailed information.
 
 #### Datasets:
+As the datasets are too large to upload to GitHub, they can be found at these links
 - [Property Price Register Ireland from Kaggle](https://www.kaggle.com/datasets/erinkhoo/property-price-register-ireland)
 - [Recorded Crime in Ireland from the CSO - Search CJQ06 for dataset](https://data.cso.ie/)
 
