@@ -13,6 +13,8 @@ This is a repository of projects that I have worked on or am currently working t
 ### Crime rates and their impact on property prices
 This project aims to assess whether there is an affect on property prices in areas of high crime in Ireland. It will initially provide a high level overview of the overall project goal, with later iterations providing more detailed information.
 
+The Jupyter Notebook associated with this project can be downloaded from this GitHub repository or run [here](https://colab.research.google.com/drive/1bWYSyuDuIV8vp8v93wrRapG4TIGQO66D?usp=sharing) using Google Colab.
+
 #### Datasets:
 As the datasets are too large to upload to GitHub, they can be found at these links
 - [Property Price Register Ireland from Kaggle](https://www.kaggle.com/datasets/erinkhoo/property-price-register-ireland)
