@@ -6,6 +6,7 @@ This is a repository of projects that I have worked on or am currently working t
 ### Table of Contents
 
 - [Projects](#projects)
+- [Technologies Used](#technologies)
 
 ## Projects
 
@@ -28,3 +29,16 @@ The Recorded Crime in Ireland dataset was also read in using Pandas. After analy
 
 ### Decision Trees and Random Forests
 The second project in this portfolio is an analysis of the Decision Tree and Random Forest Jupyter notebook created by Jake Vanderplas as part of a data science handbook, which can be found [here](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb).
+
+Various changes were made to the code in this data science handbook in an attempt to see what effects they would have on the predictions made. 
+
+---
+
+## Technologies
+
+- These projects were both created using [Python](https://www.python.org/), as it is one of the top programming languages for data science and machine learning.
+
+- Both projects were completed in a [Jupyter Notebook](https://jupyter.org/), created by Project Jupyter. They can be used to create informative and easy to follow notebooks of projects.
+
+- The Python libraries [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/) and [numpy](https://numpy.org/) were used extensively to carry out the requirements of these projects.
+
