@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Multinomial Naive Bayes Demonstration</title>
+</head>
+<body>
+    <h1>Multinomial Naive Bayes Demonstration</h1>
+    <form action="/predict" method="post">
+        <label for="text">Enter text:</label>
+        <input type="text" name="text" required>
+        <button type="submit">Predict</button>
+    </form>
+    {% if text %}
+        <p>Text: {{ text }}</p>
+    {% endif %}    
+
+    {% if prediction == 1 %}
+        <p>Prediction: This is a scam SMS</p>
+    {% elif prediction == 0 %}
+        <p>Prediction: This is not a scam SMS</p>
+    {% endif %}
+</body>
+</html>
