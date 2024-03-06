@@ -36,6 +36,9 @@ Various changes were made to the code in this data science handbook in an attemp
 
 ---
 
+### Machine Learning Techniques Notebooks
+Several Jupyter notebooks are displayed in this portfolio, used to show my understanding of certain machine learning techniques. The currently completed notebooks are Naive Bayes, Support Vector Machines, K Nearest Neighbour and K Means Clustering.
+
 ## Technologies
 
 - These projects were both created using [Python](https://www.python.org/), as it is one of the top programming languages for data science and machine learning.
